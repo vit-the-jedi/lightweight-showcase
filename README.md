@@ -33,6 +33,6 @@ small lightweight carousel showcase made w/ vanilla JS and css
 1. Feel free to customize the slider as you like. You can create multiple div/image/text elements within the "detail-view" element.
 2. The showcase.css is a starting point for your showcase - feel free to change and alter any aspect as it fits your unique design.
   
-#Reach Out
+# Reach Out
     
 Feel free to make a PR, or email at mattvitellodesign@gmail.com
