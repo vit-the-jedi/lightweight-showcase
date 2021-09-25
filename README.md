@@ -2,12 +2,14 @@
 small lightweight carousel showcase made w/ vanilla JS and css
 
 #Getting Started
+
 1.Ensure that you download the demo folder.
 2. In your html document, match your slider html code to the layout within the demo file.
 3. link the "showcase.js" file in your html.
 4. link the "showcase.css" file to your document's <head> section.
 
 #Usage
+    
 1. The classnames and html structure of the showcase in the dmeo file should not be changed, the core js relies on these classes to function.
 2. the attribute 'data-detail-number=""' controls this showcase. Be sure you are creating new showcase elements and incrementally updating their 'data-detail-number=""' attribute.
     a. You will see that the showcase arrows and the showcase controls use the 'data-detail-number=""' attribute to point to the showcase element they should show.
@@ -18,8 +20,10 @@ small lightweight carousel showcase made w/ vanilla JS and css
 
 
 #Customization
+    
 1. Feel free to customize the slider as you like. You can create multiple div/image/text elements within the "detail-view" element.
 2. The showcase.css is a starting point for your showcase - feel free to change and alter any aspect as it fits your unique design.
   
 #Reach Out
+    
 Feel free to make a PR, or email at mattvitellodesign@gmail.com
